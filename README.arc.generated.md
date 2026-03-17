@@ -1,6 +1,6 @@
-# Built a free passport photo tool because I got charged €15 at a photo studio for a JPEG
+# Built a free passport photo tool because I got charged 15 at a photo studio for a JPEG
 
-Needed to renew my passport and went to a photo studio. They took one picture, cropped it, and charged me €15 for something that took 30 seconds...
+Needed to renew my passport and went to a photo studio. They took one picture, cropped it, and charged me 15 for something that took 30 seconds...
 
 ## Install
 ```bash
