@@ -1,15 +1,15 @@
 Build Log: built-a-free-passport-photo-tool-because-i-got-charged-15-at-a-p
-Started: 2026-03-17T14:02:15.120307+00:00
-Ended: 2026-03-17T14:02:15.871034+00:00
+Started: 2026-03-18T14:03:35.342864+00:00
+Ended: 2026-03-18T14:03:36.211307+00:00
 Builder mode: inline_fallback (GLM: stub_fallback)
 Implemented:
-- /Users/rajan/Library/CloudStorage/Dropbox/Projects/moltbot/labs/overnight-pipeline/runs/20260318T010159/projects/built-a-free-passport-photo-tool-because-i-got-charged-15-at-a-p/README.md
-- /Users/rajan/Library/CloudStorage/Dropbox/Projects/moltbot/labs/overnight-pipeline/runs/20260318T010159/projects/built-a-free-passport-photo-tool-because-i-got-charged-15-at-a-p/main.py
+- /Users/rajan/Library/CloudStorage/Dropbox/Projects/moltbot/labs/overnight-pipeline/runs/20260319T010329/projects/built-a-free-passport-photo-tool-because-i-got-charged-15-at-a-p/README.md
+- /Users/rajan/Library/CloudStorage/Dropbox/Projects/moltbot/labs/overnight-pipeline/runs/20260319T010329/projects/built-a-free-passport-photo-tool-because-i-got-charged-15-at-a-p/main.py
 How to run:
-- cd /Users/rajan/Library/CloudStorage/Dropbox/Projects/moltbot/labs/overnight-pipeline/runs/20260318T010159/projects/built-a-free-passport-photo-tool-because-i-got-charged-15-at-a-p
+- cd /Users/rajan/Library/CloudStorage/Dropbox/Projects/moltbot/labs/overnight-pipeline/runs/20260319T010329/projects/built-a-free-passport-photo-tool-because-i-got-charged-15-at-a-p
 - python3 main.py
 Checks:
-- GLM generation: stub_fallback | GLM call failed: rc=1, stderr=error: required option '-m, --message <text>' not specified
+- GLM generation: stub_fallback | GLM call failed: rc=1, stderr=error: unknown option '--print'
 - python3 -m py_compile main.py => rc=0
 Notes:
 - GLM-5-Turbo attempts to generate working code from PRD
