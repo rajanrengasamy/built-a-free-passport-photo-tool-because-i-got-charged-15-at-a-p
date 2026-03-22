@@ -1,10 +1,5 @@
 Build Log: built-a-free-passport-photo-tool-because-i-got-charged-15-at-a-p
-Timestamp: 2026-03-21T14:03:01.920288+00:00
-Builder: mercury_stub
-Checks:
-- wrote README.md
-- wrote main.py
-- stub generation completed
-How to run:
-- python3 main.py
-Final status: SUCCESS
+Timestamp: 2026-03-22T14:04:08.843979+00:00
+Status: BLOCKED_BUILDER_UNAVAILABLE
+Reason: FAILED: Mercury completion marker missing after 180s
+Final status: FAILED
